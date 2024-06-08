@@ -1,10 +1,10 @@
 # Lengerich Lab Reading List
 
-## Productivity:
+## Productivity
 
 * [Getting Things Done](https://amzn.to/3UohLug) - this is the system I use
 
-## Communication:
+## Communication
 
 * [How to email busy people](https://simplystatistics.org/2011/09/23/getting-email-responses-from-busy-people/): Be kind and direct. **Bold your requested action items**.
 * [Grice's Maxims](https://www.sas.upenn.edu/~haroldfs/dravling/grice.html)
@@ -23,7 +23,7 @@
 * [What are Worthwhile Problems?](http://scienceblogs.com/thescian/2008/03/11/what-are-worthwhile-problems-f/) - Richard Feynman
 * [A Mathematician's Apology](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf) - G.H. Hardy
 
-## The Craft of Research:
+## The Craft of Research
 
 * How to do computationally reproducible research
     * [RajLab] [Blog post on how we organize computational projects in the lab](http://rajlaboratory.blogspot.com/2017/08/figure-scripting-and-how-we-organize.html)
