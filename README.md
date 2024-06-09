@@ -61,6 +61,7 @@ Pull requests welcome!
     * [Designing Effective Scientific Presentations • iBiology](https://www.ibiology.org/professional-development/scientific-presentations/)
 * Reviewing:
     * [RajLab] [How to review a paper](http://rajlaboratory.blogspot.com/2014/04/how-to-review-paper.html)
+    * [Another perspective on how to review a paper](https://github.com/jtleek/reviews)
     * [RajLab] [How to re-review a paper](http://rajlaboratory.blogspot.com/2014/04/how-to-re-review-paper.html)
     * [RajLab] [Annotated example review of science paper](https://docs.google.com/document/d/1unO4J36sfmfynFNjBbjkjIiwrdAh0rg9BAB7TKF0R_M/edit)
     * [RajLab] [Annotated example review of tech paper](https://docs.google.com/document/d/1k-DCuiR0cDM4h04AQXFjViNF2A0V0MLtA9zu9e-JmcU/edit)
