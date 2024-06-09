@@ -46,6 +46,7 @@ Pull requests welcome!
         * [RajLab] [General how to](https://docs.google.com/document/d/1fIpY8d90g0BrTCc0AAxr3PCZHhdVZUYPDxiPqSVkKOk/edit)
         * [RajLab] [Annotated example](https://docs.google.com/document/d/17f4pyQ1kowgTOIM7mazbXV8uzp2Ev8jaDOYp7MPnYF8/edit)
         * [RajLab] [Another example](https://drive.google.com/file/d/13d9x4V_RowStgSjDMm8MpiKx_xtlj5pV/view?usp=sharing)
+        * [Quick guidelines](https://jef.works/blog/2020/06/17/responding-to-scientific-peer-review/)
     * Figure making
         * [RajLab] [Illustrator guide](https://docs.google.com/document/d/1psC5olObkGHDfw3c7am9jpD2OdCN4lnCU_QF26MAQmQ/edit#heading=h.or1to9c1y8il)
         * [RajLab] [Blog post about figure making](http://rajlaboratory.blogspot.com/2019/08/i-adobe-illustrator-for-scientific.html)
