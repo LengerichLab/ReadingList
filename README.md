@@ -52,6 +52,7 @@ Pull requests welcome!
         * [RajLab] [Blog post about figure making](http://rajlaboratory.blogspot.com/2019/08/i-adobe-illustrator-for-scientific.html)
         * [RajLab] [Labeling small multiples](http://rajlaboratory.blogspot.com/2016/01/a-proposal-for-how-to-label-small.html)
         * [RajLab] [Incomplete blog post about figure design principles](https://docs.google.com/document/d/1RozjPwJO57FndomEKUEkG9XwDNeXWj1X24TKq5CMNa0/edit)
+        * [How to write a figure legend](https://blog.bioturing.com/2018/05/10/how-to-craft-a-figure-legend-for-scientific-papers/)
 * Presenting:
     * [Kellis Lab] [How to present - Writing, Figures, Talks (MIT Deep Learning Genomics Lecture 22)](https://www.youtube.com/watch?v=KzyvIBjBkuc)
     * [RajLab] [RajLab: “Refusing the call” and presenting a scientific story](https://rajlaboratory.blogspot.com/2023/09/refusing-call-and-presenting-scientific.html)
