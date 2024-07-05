@@ -104,6 +104,7 @@ Pull requests welcome!
 
 * [On the Turing Completeness of PowerPoint](https://www.youtube.com/watch?v=uNjxe8ShM-8)
 
+
 ## Classic Papers
 
 * Statistics
@@ -122,6 +123,7 @@ Pull requests welcome!
     * [Hints for Computer System Design](http://www.cs.cmu.edu/~15712/papers//lampson83.pdf) - Butler Lampson
     * [End-to-End Arguments in Systems Design](http://www.cs.cmu.edu/~15712/papers//saltzer84.pdf) - J.H. Saltzer, D.P. Reed, D.D. Clark
 * Deep Learning Basics
+    * [Ilya Sutskever's "90% of Deep Learning in 30 papers"](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
     * [Deep Learning book chapter on convolutional nets](http://www.iro.umontreal.ca/~bengioy/DLbook/convnets.html)
     * [Generalization and Network Design Strategies](http://yann.lecun.com/exdb/publis/pdf/lecun-89.pdf) - LeCun
     * [ImageNet Classification with Deep Convolutional Neural Networks](http://books.nips.cc/papers/files/nips25/NIPS2012_0534.pdf) - Alex Krizhevsky, Ilya Sutskever, Geoffrey E Hinton, NIPS 2012.
