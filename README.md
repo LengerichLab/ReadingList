@@ -24,6 +24,7 @@ Pull requests welcome!
 * [The Structure of Scientific Revolutions](http://projektintegracija.pravo.hr/_download/repository/Kuhn_Structure_of_Scientific_Revolutions.pdf) - Thomas Kuhn
 * [What are Worthwhile Problems?](http://scienceblogs.com/thescian/2008/03/11/what-are-worthwhile-problems-f/) - Richard Feynman
 * [A Mathematician's Apology](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf) - G.H. Hardy
+* [The importance of stupidity in scientific research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research) - Martin A Schwartz
 
 ## The Craft of Research
 
