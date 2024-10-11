@@ -1,5 +1,5 @@
 # Lengerich Lab Reading List
-Pull requests welcome!
+Pull requests for additions / fixes welcome!
 
 
 ## Productivity
@@ -10,8 +10,8 @@ Pull requests welcome!
 
 * [How to email busy people](https://simplystatistics.org/2011/09/23/getting-email-responses-from-busy-people/): Be kind and direct. **Bold your requested action items**.
 * [Grice's Maxims](https://www.sas.upenn.edu/~haroldfs/dravling/grice.html)
-* [Shomir Wilson] [Guide for Interacting With Faculty](https://shomir.net/teaching_faq.html)
-* [Shomir Wilson] [Guide to Professorspeak](https://shomir.net/professorspeak.html)
+* [Guide for Interacting With Faculty](https://shomir.net/teaching_faq.html) - Shomir Wilson
+* [Guide to Professorspeak](https://shomir.net/professorspeak.html) - Shomir Wilson
 
 
 ## Research Wisdom
@@ -29,30 +29,30 @@ Pull requests welcome!
 ## The Craft of Research
 
 * How to do computationally reproducible research
-    * [RajLab] [Blog post on how we organize computational projects in the lab](http://rajlaboratory.blogspot.com/2017/08/figure-scripting-and-how-we-organize.html)
-    * [RajLab] [Example project organization](https://github.com/arjunrajlaboratory/example_project)
+    * [Blog post on how we organize computational projects in the lab](http://rajlaboratory.blogspot.com/2017/08/figure-scripting-and-how-we-organize.html) - RajLab
+    * [Example project organization](https://github.com/arjunrajlaboratory/example_project) - RajLab
 * Reading:
-    * [RajLab] [Staying on top of literature](https://docs.google.com/document/d/1QrDpIoOlQaUVjDnRCYqi_2IYYeWWz6OxC1w4pY5sIQs/edit)
+    * [Staying on top of literature](https://docs.google.com/document/d/1QrDpIoOlQaUVjDnRCYqi_2IYYeWWz6OxC1w4pY5sIQs/edit) - RajLab
 * Writing:
     * [Writing for Computer Science](https://amzn.to/44HN73P)
     * Writing a paper
-        * [Shomir Wilson] [Guide for Scholarly Writing](https://shomir.net/scholarly_writing.html)
-        * [Shomir Wilson] [Guide for Citations and References](https://shomir.net/citations_and_references.html)
-        * [Shomir Wilson] [Guide for Research Conferences](https://shomir.net/scholarly_publishing.html)
-        * [RajLab] Introductions, annotated [example 1](https://docs.google.com/document/d/1nqVYRTql1sgUNxT9RfE0SX0RiyH3QlgUZgX_Jg6fsos/edit?usp=sharing), [example 2](https://docs.google.com/document/d/1lGpMFtW4x4GOx-TUmVD_iguM-vh3nvdjNhN-R2PyXt8/edit?usp=sharing), [example 3](https://docs.google.com/document/d/1TEFLJpjwRiSM2E0gmiUg98sZFEigg_8Pj4vblEh39xI/edit?usp=sharing)
-        * [RajLab] [Words to avoid when writing](https://docs.google.com/document/d/1r6nDcF43esu3xBjmk3ERAmaEHKEB75_HflSkk3zZhBk/edit)
-        * [RajLab] [Writing checklist (incomplete)](https://docs.google.com/document/d/1DmoBuFUK6bJG9C5AM5B7i12GI2ew8egg2b-50DdgRFI/edit)
-        * [RajLab] [Paper submission checklist](https://docs.google.com/document/d/1_5R2c6WVjV5qi5profAlMHQd2LHhhXgzmYn_htsJl4Q/edit?usp=sharing)
+        * [Guide for Scholarly Writing](https://shomir.net/scholarly_writing.html) - Shomir Wilson
+        * [Guide for Citations and References](https://shomir.net/citations_and_references.html) - Shomir Wilson
+        * [Guide for Research Conferences](https://shomir.net/scholarly_publishing.html) - Shomir Wilson
+        * Introductions, annotated [example 1](https://docs.google.com/document/d/1nqVYRTql1sgUNxT9RfE0SX0RiyH3QlgUZgX_Jg6fsos/edit?usp=sharing), [example 2](https://docs.google.com/document/d/1lGpMFtW4x4GOx-TUmVD_iguM-vh3nvdjNhN-R2PyXt8/edit?usp=sharing), [example 3](https://docs.google.com/document/d/1TEFLJpjwRiSM2E0gmiUg98sZFEigg_8Pj4vblEh39xI/edit?usp=sharing) - RajLab
+        * [Words to avoid when writing](https://docs.google.com/document/d/1r6nDcF43esu3xBjmk3ERAmaEHKEB75_HflSkk3zZhBk/edit) - RajLab
+        * [Writing checklist (incomplete)](https://docs.google.com/document/d/1DmoBuFUK6bJG9C5AM5B7i12GI2ew8egg2b-50DdgRFI/edit) - RajLab
+        * [Paper submission checklist](https://docs.google.com/document/d/1_5R2c6WVjV5qi5profAlMHQd2LHhhXgzmYn_htsJl4Q/edit?usp=sharing) - RajLab
     * Writing a response to reviewers for revising a paper
-        * [RajLab] [General how to](https://docs.google.com/document/d/1fIpY8d90g0BrTCc0AAxr3PCZHhdVZUYPDxiPqSVkKOk/edit)
-        * [RajLab] [Annotated example](https://docs.google.com/document/d/17f4pyQ1kowgTOIM7mazbXV8uzp2Ev8jaDOYp7MPnYF8/edit)
-        * [RajLab] [Another example](https://drive.google.com/file/d/13d9x4V_RowStgSjDMm8MpiKx_xtlj5pV/view?usp=sharing)
+        * [General how to](https://docs.google.com/document/d/1fIpY8d90g0BrTCc0AAxr3PCZHhdVZUYPDxiPqSVkKOk/edit) - RajLab
+        * [Annotated example](https://docs.google.com/document/d/17f4pyQ1kowgTOIM7mazbXV8uzp2Ev8jaDOYp7MPnYF8/edit)  - RajLab
+        * [Another example](https://drive.google.com/file/d/13d9x4V_RowStgSjDMm8MpiKx_xtlj5pV/view?usp=sharing)  - RajLab
         * [Quick guidelines](https://jef.works/blog/2020/06/17/responding-to-scientific-peer-review/)
     * Figure making
-        * [RajLab] [Illustrator guide](https://docs.google.com/document/d/1psC5olObkGHDfw3c7am9jpD2OdCN4lnCU_QF26MAQmQ/edit#heading=h.or1to9c1y8il)
-        * [RajLab] [Blog post about figure making](http://rajlaboratory.blogspot.com/2019/08/i-adobe-illustrator-for-scientific.html)
-        * [RajLab] [Labeling small multiples](http://rajlaboratory.blogspot.com/2016/01/a-proposal-for-how-to-label-small.html)
-        * [RajLab] [Incomplete blog post about figure design principles](https://docs.google.com/document/d/1RozjPwJO57FndomEKUEkG9XwDNeXWj1X24TKq5CMNa0/edit)
+        * [Illustrator guide](https://docs.google.com/document/d/1psC5olObkGHDfw3c7am9jpD2OdCN4lnCU_QF26MAQmQ/edit#heading=h.or1to9c1y8il)  - RajLab
+        * [Blog post about figure making](http://rajlaboratory.blogspot.com/2019/08/i-adobe-illustrator-for-scientific.html)  - RajLab
+        * [Labeling small multiples](http://rajlaboratory.blogspot.com/2016/01/a-proposal-for-how-to-label-small.html)  - RajLab
+        * [Incomplete blog post about figure design principles](https://docs.google.com/document/d/1RozjPwJO57FndomEKUEkG9XwDNeXWj1X24TKq5CMNa0/edit) - RajLab
         * [How to write a figure legend](https://blog.bioturing.com/2018/05/10/how-to-craft-a-figure-legend-for-scientific-papers/)
 * Presenting:
     * [Kellis Lab] [How to present - Writing, Figures, Talks (MIT Deep Learning Genomics Lecture 22)](https://www.youtube.com/watch?v=KzyvIBjBkuc)
