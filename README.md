@@ -133,18 +133,18 @@ Pull requests welcome!
     * [Introduction to NN architectures](http://culurciello.github.io/tech/2016/06/04/nets.html?utm_content=bufferbbc97&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * Computational Biology
     * GWAS / eQTL mapping
-        * Graph-guided fused Lasso - Kim & Xing, [Statistical estimation of correlated genome associations to a quantitative trait network](http://www.plosgenetics.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pgen.1000587&representation=PDF)
-        * Tree-guided group Lasso - Kim & Xing, [Tree-guided group lasso for multi-response regression with structured sparsity, with an application to eQTL mapping](http://www.cs.cmu.edu/~sssykim/papers/tlasso_final.pdf)
-        * Joint eQTL Mapping & Network Inference - Sohn & Kim, [Joint estimation of structured sparsity and output structure in multiple-output regression via inverse-covariance regularization](http://www.cs.cmu.edu/~sssykim/papers/377_paper.pdf)
+        * [Graph-guided fused Lasso]((http://www.plosgenetics.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pgen.1000587&representation=PDF)) - Kim & Xing
+        * [Tree-guided group Lasso](http://www.cs.cmu.edu/~sssykim/papers/tlasso_final.pdf) - Kim & Xing
+        * [Joint eQTL Mapping & Network Inference](http://www.cs.cmu.edu/~sssykim/papers/377_paper.pdf) - Sohn & Kim
     * Gaussian Graphical Models / Gene Networks
-        * Graphical Lasso -- Friedman et al., [Sparse inverse covariance estimation with the graphical lasso](http://statweb.stanford.edu/~tibs/ftp/graph.pdf)
-        * Neighborhood Selection -- Meinshausen & Buhlmann, [High-dimensional graphs and variable selection with the lasso](https://projecteuclid.org/download/pdfview_1/euclid.aos/1152540754)
-        * Keller -- Song et al., [KELLER: estimating time-varying interactions between genes](http://bioinformatics.oxfordjournals.org/content/25/12/i128.full.pdf)
-        * Treegl -- Parikh et al., [TREEGL: reverse engineering tree-evolving gene networks underlying developing biological lineages](https://www.cs.cmu.edu/~apparikh/papers/Parikh_Wu_Curtis_Xing_ISMB11.pdf)
-        * Learning Multiple GGMs -- Mohan et al., [Structured learning of gaussian graphical models](http://papers.nips.cc/paper/4499-structured-learning-of-gaussian-graphical-models.pdf)
-        * Learning Multiple GGMs -- Peterson et al., [Bayesian inference of multiple gaussian graphical models](http://www.stat.rice.edu/~marina/papers/JASA14.pdf)
-        * Learning Hub GGMs -- Tan et al., [Learning graphical models with hubs](http://jmlr.org/papers/volume15/tan14b/tan14b.pdf)
+        * [Graphical Lasso](http://statweb.stanford.edu/~tibs/ftp/graph.pdf) -- Friedman et al.
+        * [Neighborhood Selection](https://projecteuclid.org/download/pdfview_1/euclid.aos/1152540754) -- Meinshausen & Buhlmann
+        * [KELLER: estimating time-varying interactions between genes](http://bioinformatics.oxfordjournals.org/content/25/12/i128.full.pdf) -- Song et al.
+        * [TREEGL: reverse engineering tree-evolving gene networks underlying developing biological lineages](https://www.cs.cmu.edu/~apparikh/papers/Parikh_Wu_Curtis_Xing_ISMB11.pdf) -- Parikh et al. 
+        * [Structured learning of gaussian graphical models](http://papers.nips.cc/paper/4499-structured-learning-of-gaussian-graphical-models.pdf) -- Mohan et al., 
+        * [Bayesian inference of multiple gaussian graphical models](http://www.stat.rice.edu/~marina/papers/JASA14.pdf) -- Peterson et al., 
+        * [Learning graphical models with hubs](http://jmlr.org/papers/volume15/tan14b/tan14b.pdf) -- Tan et al., 
         * [An Introduction to Graphical Models](http://www.cis.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf) (Mike Jordan, brief course notes)
-        * EM - Neal & Hinton, [A View of the EM Algorithm that Justifies Incremental, Sparse and Other Variants](http://www.cs.toronto.edu/~radford/ftp/emk.pdf)
+        * [A View of the EM Algorithm that Justifies Incremental, Sparse and Other Variants](http://www.cs.toronto.edu/~radford/ftp/emk.pdf) - Neal & Hinton, 
         * [A Unifying Review of Linear Gaussian Models](http://authors.library.caltech.edu/13697/1/ROWnc99.pdf) - Roweis & Ghahramani
         * [An Introduction to Variational Methods for Graphical Models](http://www.cs.berkeley.edu/~jordan/papers/variational-intro.pdf) - Jordan et al.
